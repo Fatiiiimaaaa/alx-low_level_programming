@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
-
  *  main - First main
+ *
+ *  This function prints a message and returns 0.
  *
  *  Return: Always 0.
  */
